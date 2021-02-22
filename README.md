@@ -1,6 +1,7 @@
 # Express Authentication
 
-Express authentication template using Passport + flash messages + custom middleware
+making changes to read me file to test out github 
+
 
 ## What it includes
 
